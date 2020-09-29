@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга Цепилова](https://up.htmlacademy.ru/javascript/21/user/138710).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
